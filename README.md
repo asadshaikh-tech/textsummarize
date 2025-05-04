@@ -6,7 +6,6 @@ This project is a **Text Summarizer desktop application** built using `spaCy` fo
 ##  Features
 - Input large text via GUI
 - Summarize to 3 most relevant sentences
-- Clean interface using `tkinter`
 - Extractive summarization using word frequency
 
 ## 🛠 Tech Stack
@@ -23,6 +22,7 @@ git clone https://github.com/yourusername/textsummarize.git
 cd Desktop
 
 cd text_summarizer
+
 2. Create and activate virtual environment (optional)
 
 python -m venv .venv
